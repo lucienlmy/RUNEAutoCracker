@@ -28,9 +28,6 @@
 3. Choose a profile -> Regular, Steakclient, or Steamclient
 4. Hit **Crack**, you're done!
 
-First launch auto-downloads everything it needs into a local `rune/` folder — no manual setup required.
-
-
 ## Requirements
 
 Python 3.7+ & internet connection
