@@ -21,20 +21,35 @@
 - Can export a crack-only zip without touching your game files
 - Emulator files update themselves, checked via SHA-256
 
-## How to Use
+## Usage
+
+Clone the repo:
+
+```
+git clone https://github.com/Mush-iii/RUNEAutoCracker.git
+cd RUNEAutoCracker
+```
+
+Install dependencies:
+
+```
+pip install customtkinter tkinterdnd2 requests pywin32 beautifulsoup4 ddgs steam
+```
+
+Run it:
+
+```
+python rune_auto_cracker.py
+```
+
+Then:
 
 1. Drop in the game folder, or hit **Browse**
 2. Type the game name / AppID and hit **Search**
 3. Choose a profile -> Regular, Steakclient, or Steamclient
 4. Hit **Crack**, you're done!
 
-## Requirements
 
-Python 3.7+ & internet connection
-
-```
-pip install customtkinter tkinterdnd2 requests pywin32 beautifulsoup4 ddgs steam
-```
 ## Screenshots
 
 <a href="https://img.ptscreens.com/image675827968b9de920.png"><img src="https://img.ptscreens.com/image675827968b9de920.png" width="400"></a> <a href="https://img.ptscreens.com/imageaf370d8d368c41e1.png"><img src="https://img.ptscreens.com/imageaf370d8d368c41e1.png" width="400"></a>
